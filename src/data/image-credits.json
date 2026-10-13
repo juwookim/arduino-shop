@@ -1,0 +1,254 @@
+[
+  {
+    "slug": "arduino-uno-r3",
+    "title": "Arduino Uno - R3.jpg",
+    "author": "SparkFun Electronics from Boulder, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arduino_Uno_-_R3.jpg",
+    "path": "/images/products/arduino-uno-r3.jpg"
+  },
+  {
+    "slug": "arduino-mega-2560-r3",
+    "title": "Arduino MEGA 2560 R3, front side.jpg",
+    "author": "Dsimic",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arduino_MEGA_2560_R3,_front_side.jpg",
+    "path": "/images/products/arduino-mega-2560-r3.jpg"
+  },
+  {
+    "slug": "arduino-nano",
+    "title": "Arduino Nano on table.jpg",
+    "author": "MegaMegaAndOmega",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arduino_Nano_on_table.jpg",
+    "path": "/images/products/arduino-nano.jpg"
+  },
+  {
+    "slug": "arduino-uno-r4-wifi",
+    "title": "Arduino Uno R4 WiFi perspective.webp",
+    "author": "Arduino",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arduino_Uno_R4_WiFi_perspective.webp",
+    "path": "/images/products/arduino-uno-r4-wifi.jpg"
+  },
+  {
+    "slug": "arduino-uno-r4-minima",
+    "title": "Arduino Uno R4 Minima perspective.webp",
+    "author": "Arduino",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arduino_Uno_R4_Minima_perspective.webp",
+    "path": "/images/products/arduino-uno-r4-minima.jpg"
+  },
+  {
+    "slug": "nano-compatible-ch340",
+    "title": "Iskra Nano Pro (Arduino Nano clone) top.jpg",
+    "author": "Retired electrician",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Iskra_Nano_Pro_(Arduino_Nano_clone)_top.jpg",
+    "path": "/images/products/nano-compatible-ch340.jpg"
+  },
+  {
+    "slug": "esp32-devkitc",
+    "title": "ESP32 Espressif ESP-WROOM-32 Dev Board.jpg",
+    "author": "Ubahnverleih",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:ESP32_Espressif_ESP-WROOM-32_Dev_Board.jpg",
+    "path": "/images/products/esp32-devkitc.jpg"
+  },
+  {
+    "slug": "wemos-d1-mini",
+    "title": "WeMos D1 Mini front.jpg",
+    "author": "Tpkull",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:WeMos_D1_Mini_front.jpg",
+    "path": "/images/products/wemos-d1-mini.jpg"
+  },
+  {
+    "slug": "hc-sr04",
+    "title": "HC SR04 Ultrasonic Module.jpg",
+    "author": "Suyash Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:HC_SR04_Ultrasonic_Module.jpg",
+    "path": "/images/products/hc-sr04.jpg"
+  },
+  {
+    "slug": "dht11",
+    "title": "Dht11.jpg",
+    "author": "Edwiyanto",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dht11.jpg",
+    "path": "/images/products/dht11.jpg"
+  },
+  {
+    "slug": "dht22",
+    "title": "AM2302 (DHT22) digital temperature and humidity sensor module.jpg",
+    "author": "Suyash Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:AM2302_(DHT22)_digital_temperature_and_humidity_sensor_module.jpg",
+    "path": "/images/products/dht22.jpg"
+  },
+  {
+    "slug": "hc-sr501-pir",
+    "title": "PIR motion sensor for Arduino oblique view.jpg",
+    "author": "Sjilla",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:PIR_motion_sensor_for_Arduino_oblique_view.jpg",
+    "path": "/images/products/hc-sr501-pir.jpg"
+  },
+  {
+    "slug": "sw-420-vibration",
+    "title": "Vibration sensor module 01.jpg",
+    "author": "Suyash Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vibration_sensor_module_01.jpg",
+    "path": "/images/products/sw-420-vibration.jpg"
+  },
+  {
+    "slug": "lcd-1602",
+    "title": "MELT 16x2 LCD alphanumeric display 02(DXO).jpg",
+    "author": "Retired electrician",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:MELT_16x2_LCD_alphanumeric_display_02(DXO).jpg",
+    "path": "/images/products/lcd-1602.jpg"
+  },
+  {
+    "slug": "relay-1ch-5v",
+    "title": "SRD-05VDC-SL-C 5V one-channel relay module.jpg",
+    "author": "Suyash Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SRD-05VDC-SL-C_5V_one-channel_relay_module.jpg",
+    "path": "/images/products/relay-1ch-5v.jpg"
+  },
+  {
+    "slug": "rfid-rc522",
+    "title": "RFID-RC522.jpg",
+    "author": "JrawX",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:RFID-RC522.jpg",
+    "path": "/images/products/rfid-rc522.jpg"
+  },
+  {
+    "slug": "bluetooth-hc-06",
+    "title": "Bluetooth trans-receiver module (1).jpg",
+    "author": "Suyash Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bluetooth_trans-receiver_module_(1).jpg",
+    "path": "/images/products/bluetooth-hc-06.jpg"
+  },
+  {
+    "slug": "sg90-servo",
+    "title": "Tower Pro SG90 micro servo motor.jpg",
+    "author": "Suyash Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tower_Pro_SG90_micro_servo_motor.jpg",
+    "path": "/images/products/sg90-servo.jpg"
+  },
+  {
+    "slug": "stepper-28byj-48",
+    "title": "28BYJ-48 unipolar stepper motor with ULN2003 driver.jpg",
+    "author": "Kushagra Keshari",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:28BYJ-48_unipolar_stepper_motor_with_ULN2003_driver.jpg",
+    "path": "/images/products/stepper-28byj-48.jpg"
+  },
+  {
+    "slug": "breadboard-830",
+    "title": "BREB-02 (14335226011).jpg",
+    "author": "oomlout",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BREB-02_(14335226011).jpg",
+    "path": "/images/products/breadboard-830.jpg"
+  },
+  {
+    "slug": "breadboard-400",
+    "title": "400 points breadboard.jpg",
+    "author": "oomlout",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:400_points_breadboard.jpg",
+    "path": "/images/products/breadboard-400.jpg"
+  },
+  {
+    "slug": "jumper-wire-40p",
+    "title": "A few Jumper Wires.jpg",
+    "author": "oomlout",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_few_Jumper_Wires.jpg",
+    "path": "/images/products/jumper-wire-40p.jpg"
+  },
+  {
+    "slug": "basic-parts-kit",
+    "title": "A healthy assortment of components (437341128).jpg",
+    "author": "Windell Oskay from Sunnyvale, CA, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_healthy_assortment_of_components_(437341128).jpg",
+    "path": "/images/products/basic-parts-kit.jpg"
+  },
+  {
+    "slug": "beginner-kit",
+    "title": "ARDX - Arduino Experimentation Kit (Inside the box).jpg",
+    "author": "oomlout",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ARDX_-_Arduino_Experimentation_Kit_(Inside_the_box).jpg",
+    "path": "/images/products/beginner-kit.jpg"
+  },
+  {
+    "slug": "hero-uno",
+    "title": "Arduino uno r3 isometr.jpg",
+    "author": "MakeMagazinDE",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arduino_uno_r3_isometr.jpg",
+    "path": "/images/banners/hero-uno.jpg"
+  },
+  {
+    "slug": "hero-breadboard",
+    "title": "Solderless Breadboard with LEDs.jpg",
+    "author": "en:User:Ilikefood",
+    "license": "Copyrighted free use",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Solderless_Breadboard_with_LEDs.jpg",
+    "path": "/images/banners/hero-breadboard.jpg"
+  },
+  {
+    "slug": "l298n-driver",
+    "title": "雙H光耦L298N電機控制板",
+    "author": "kenming Wang",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://www.flickr.com/photos/12882975@N00/14134165312",
+    "path": "/images/products/l298n-driver.jpg"
+  },
+  {
+    "slug": "arduino-starter-kit",
+    "title": "Arduino Starter Kit en Castellano",
+    "author": "Ultra-lab",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://www.flickr.com/photos/62141688@N08/16645686899",
+    "path": "/images/products/arduino-starter-kit.jpg"
+  }
+]
