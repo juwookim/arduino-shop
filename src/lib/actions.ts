@@ -41,6 +41,10 @@ export async function signup(input: {
   if (error) {
     if (error.code === "user_already_exists") return err("이미 가입된 이메일입니다.");
     if (error.code === "over_email_send_rate_limit") return err("인증 메일 발송 한도를 초과했습니다. 잠시 후 다시 시도해 주세요.");
+    // Supabase 기본 메일 서버는 프로젝트 팀원 주소로만 메일을 보낸다 (커스텀 SMTP를 설정하면 해결)
+    if (error.code === "email_address_not_authorized" || /not authorized/i.test(error.message)) {
+      return err("지금은 이 이메일로 인증 메일을 보낼 수 없습니다. 쇼핑몰 운영자에게 문의해 주세요.");
+    }
     return err(`가입에 실패했습니다: ${error.message}`);
   }
   return ok({ needsConfirm: !data.session });
